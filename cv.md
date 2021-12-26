@@ -3,7 +3,7 @@
 ## Contacts
 
 - Location: Moscow, Russia
-- email: merzhanova@gmail.com*
+- email: merzhanova@gmail.com
 
 ## Skills
 
