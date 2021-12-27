@@ -4,6 +4,7 @@
 
 - Location: Moscow, Russia
 - email: merzhanova@gmail.com
+- Discord: MariaKM#7119
 
 ## Skills
 
